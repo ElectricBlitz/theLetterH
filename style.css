@@ -44,3 +44,10 @@ h3 a {
     text-align: center;
     vertical-align: middle;
 }
+
+#email {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000;
+}
