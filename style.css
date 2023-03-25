@@ -51,3 +51,7 @@ h3 a {
     align-items: center;
     height: 1000;
 }
+
+.section {
+    margin: 0;
+}
