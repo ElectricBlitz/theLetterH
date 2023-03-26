@@ -10,6 +10,7 @@
 
 #Name {
     margin-bottom: 15;
+    margin-top: 0;
 }
 
 h2 {
@@ -53,4 +54,17 @@ ul {
 .lists ul {
     list-style-type: none;
     text-align: center;
+}
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 10;
+}
+
+#navbar li {
+    display: inline;
+    padding: 10;
+    margin: 0;
 }
