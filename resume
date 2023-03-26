@@ -1,0 +1,84 @@
+<head>
+    <title>Hire me pls</title>
+    <link rel="stylesheet" type="text/css" href="resume.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+    <div id="title-bar">
+
+    </div>
+
+    <div id="contact-info">
+        <h1 id="Name">Phillip Guidry</h1>
+        <a href="mailto: phillip.guidry@theletterh.org">phillip.guidry@theletterh.org</a>
+    </div>
+    
+    <h2>Education</h2>
+        <div class="place">University of Louisiana at Lafayette</div>
+        <div class="time">Fall 2019-Present</div>
+        <p>Bachelor of Science in Informatics</p>
+        <p>Concentration: Systems Administration</p>
+    <h2>Experience</h2>
+        <!--Acadian-->
+        <div class="place">Acadian Ambulance</div>
+        <div class="location">302 Hopkins St, Lafayette LA 70501</div>
+        <div class="job-title">IT Security Intern</div>
+        <div class="time">November 2022-Present</div>
+        <div class="responsibilities">
+            <ul>
+                <li>Learned Security Tools: DUO, Trend Micro Suite, Tenable</li>
+                <li>Reviewed security alerts and verified reports</li>
+                <li>Worked as a team to implement various projects</li>
+                <li>Utilized Tenable to perform network vulnerability scanning and present information other parties</li>
+            </ul>
+        </div>
+
+        <div class="job-title">Computer Technician Intern</div>
+        <div class="time">June 2022-November 2022</div>
+        <div class="responsibilities">
+            <ul>
+                <li>Learned how to troubleshoot computer hardware and software</li>
+                <li>Deployed endpoint equipment</li>
+                <li>Administered user accounts</li>
+            </ul>
+        </div>
+
+        <!--FedEx-->
+        <div class="place">FedEx Ground</div>
+        <div class="time">October 2021 - Present</div>
+        <div class="location">3600 NE Evangeline Thrwy, Carencro, LA</div>
+        <div class="responsibilities">
+            <ul>
+                <li>Loaded, unloaded, and sorted packages into and from various trailers</li>
+        </div>
+
+        <!--VPRAC-->
+        <div class="place">Vermilion Parish Rabies Animal Control</div>
+        <div class="time">July 2019 - September 2021</div>
+        <div class="location">11303 Pioneer Rd, Kaplan, LA 70548</div>
+        <div class="responsibilities">
+            <ul>
+                <li>Cared for animal's wellbeing</li>
+                <li>Learned team and leadership skills</li>
+        </div>
+
+    <h2>Honors and activities</h2>
+    <div class="lists">
+        <p>Dean's List</p>
+        <ul>
+            <li>Fall 2019</li>
+            <li>Fall 2020</li>
+        </ul>
+
+        <p>President's List</p>
+        <ul>
+            <li>Spring 2020</li>
+            <li>Fall 2021</li>
+            <li>Spring 2022</li>
+            <li>Fall 2022</li>
+        </ul>
+    </div>
+
+    
+</body>

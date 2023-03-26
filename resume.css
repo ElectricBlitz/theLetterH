@@ -1,0 +1,56 @@
+#contact-info {
+    font-size: 48pt;
+    text-align: center;
+}
+
+#contact-info a {
+    font-size: 20pt;
+    text-align: center;
+}
+
+#Name {
+    margin-bottom: 15;
+}
+
+h2 {
+    font-size: 40pt;
+    margin-bottom: 20;
+    font-weight: bolder;
+}
+
+.place {
+    font-size: 24;
+    font-weight: bold;
+}
+
+.job-title {
+    font-size: 20;
+    font-weight: 600;
+}
+
+p {
+    font-size: 20;
+    font-weight: bold;
+}
+
+a {
+    color: inherit;
+}
+
+body {
+    color: #000;
+    background-color: #586f7c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: square;
+    font-weight: 525;
+}
+
+.lists ul {
+    list-style-type: none;
+    text-align: center;
+}
